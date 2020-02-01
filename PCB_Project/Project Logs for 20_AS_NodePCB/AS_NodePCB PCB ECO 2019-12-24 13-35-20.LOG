@@ -1,0 +1,250 @@
+Removed Pin From Net: NetName=SWDIO Pin=26P Connector-1
+Removed Pin From Net: NetName=SWCLK Pin=26P Connector-2
+Removed Pin From Net: NetName=JTDI Pin=26P Connector-3
+Removed Pin From Net: NetName=JTDO Pin=26P Connector-4
+Removed Pin From Net: NetName=TRST Pin=26P Connector-5
+Removed Pin From Net: NetName=3V3 Pin=26P Connector-6
+Removed Pin From Net: NetName=5V Pin=26P Connector-7
+Removed Pin From Net: NetName=RS232_IN Pin=26P Connector-8
+Removed Pin From Net: NetName=Q7_Streeing_Clamp_OUT Pin=26P Connector-9
+Removed Pin From Net: NetName=RS232_OUT Pin=26P Connector-10
+Removed Pin From Net: NetName=Motor_Steering_Speed_OUT Pin=26P Connector-11
+Removed Pin From Net: NetName=Spare_USART_RX Pin=26P Connector-12
+Removed Pin From Net: NetName=Motor_Dir_OUT Pin=26P Connector-13
+Removed Pin From Net: NetName=Motor_Current_Limit_OUT Pin=26P Connector-15
+Removed Pin From Net: NetName=EBS_Autonomous_Mode_OUT Pin=26P Connector-16
+Removed Pin From Net: NetName=Spare_Pin_2 Pin=26P Connector-17
+Removed Pin From Net: NetName=EBS_Heartbeat_OUT Pin=26P Connector-18
+Removed Pin From Net: NetName=Spare_Pin_4 Pin=26P Connector-19
+Removed Pin From Net: NetName=Spare_Pin_3 Pin=26P Connector-20
+Removed Pin From Net: NetName=Spare_Pin_7 Pin=26P Connector-21
+Removed Pin From Net: NetName=Spare_Pin_6 Pin=26P Connector-22
+Removed Pin From Net: NetName=DGND Pin=26P Connector-23
+Removed Pin From Net: NetName=Spare_Pin_8 Pin=26P Connector-24
+Removed Pin From Net: NetName=5V Pin=26P Connector-25
+Removed Pin From Net: NetName=Spare_Pin_9 Pin=26P Connector-26
+Removed Pin From Net: NetName=5V Pin=60P Connector-1
+Removed Pin From Net: NetName=Wheel_Speed_L_IN Pin=60P Connector-2
+Removed Pin From Net: NetName=AGND Pin=60P Connector-3
+Removed Pin From Net: NetName=5V Pin=60P Connector-4
+Removed Pin From Net: NetName=Wheel_Speed_R_IN Pin=60P Connector-5
+Removed Pin From Net: NetName=AGND Pin=60P Connector-6
+Removed Pin From Net: NetName=DGND Pin=60P Connector-7
+Removed Pin From Net: NetName=5V Pin=60P Connector-8
+Removed Pin From Net: NetName=B4_Steering_Clamped Pin=60P Connector-9
+Removed Pin From Net: NetName=5V Pin=60P Connector-10
+Removed Pin From Net: NetName=Steering_Pos_IN Pin=60P Connector-11
+Removed Pin From Net: NetName=AGND Pin=60P Connector-12
+Removed Pin From Net: NetName=5V Pin=60P Connector-13
+Removed Pin From Net: NetName=Rack_Pos_IN Pin=60P Connector-14
+Removed Pin From Net: NetName=AGND Pin=60P Connector-15
+Removed Pin From Net: NetName=24V_ASMS_IN Pin=60P Connector-16
+Removed Pin From Net: NetName=EBS_Failure_LED_OUT Pin=60P Connector-17
+Removed Pin From Net: NetName=DGND Pin=60P Connector-18
+Removed Pin From Net: NetName=24V_ASMS_IN Pin=60P Connector-19
+Removed Pin From Net: NetName=EBS_Speaker Pin=60P Connector-20
+Removed Pin From Net: NetName=DGND Pin=60P Connector-21
+Removed Pin From Net: NetName=24V_ASMS_IN Pin=60P Connector-22
+Removed Pin From Net: NetName=ASSI_R_LED_OUT Pin=60P Connector-23
+Removed Pin From Net: NetName=DGND Pin=60P Connector-24
+Removed Pin From Net: NetName=24V_ASMS_IN Pin=60P Connector-25
+Removed Pin From Net: NetName=ASSI_G_LED_OUT Pin=60P Connector-26
+Removed Pin From Net: NetName=DGND Pin=60P Connector-27
+Removed Pin From Net: NetName=24V_ASMS_IN Pin=60P Connector-28
+Removed Pin From Net: NetName=ASSI_B_LED_OUT Pin=60P Connector-29
+Removed Pin From Net: NetName=DGND Pin=60P Connector-30
+Removed Pin From Net: NetName=24V_LVMS_IN Pin=60P Connector-31
+Removed Pin From Net: NetName=24V_ASMS_IN Pin=60P Connector-35
+Removed Pin From Net: NetName=5V Pin=60P Connector-37
+Removed Pin From Net: NetName=EBS_Pressure_IN Pin=60P Connector-38
+Removed Pin From Net: NetName=AGND Pin=60P Connector-39
+Removed Pin From Net: NetName=5V Pin=60P Connector-40
+Removed Pin From Net: NetName=Service_Pressure_IN Pin=60P Connector-41
+Removed Pin From Net: NetName=AGND Pin=60P Connector-42
+Removed Pin From Net: NetName=5V Pin=60P Connector-43
+Removed Pin From Net: NetName=Actuator_Pressure_IN Pin=60P Connector-44
+Removed Pin From Net: NetName=AGND Pin=60P Connector-45
+Removed Pin From Net: NetName=AIN_Pressure_Regulator Pin=60P Connector-46
+Removed Pin From Net: NetName=AGND Pin=60P Connector-47
+Removed Pin From Net: NetName=Q1_Pressure_Regulator_OUT Pin=60P Connector-48
+Removed Pin From Net: NetName=AGND Pin=60P Connector-49
+Removed Pin From Net: NetName=Q2_Service_Brake_OUT Pin=60P Connector-50
+Removed Pin From Net: NetName=Q6_Redundancy_OUT Pin=60P Connector-51
+Removed Pin From Net: NetName=ASMS_ON_IN Pin=60P Connector-52
+Removed Pin From Net: NetName=EBS_Compressor_Relay_OUT Pin=60P Connector-53
+Removed Pin From Net: NetName=EBS_OK_IN Pin=60P Connector-56
+Removed Pin From Net: NetName=CAN1_H Pin=60P Connector-57
+Removed Pin From Net: NetName=CAN1_L Pin=60P Connector-58
+Removed Pin From Net: NetName=CAN2_H Pin=60P Connector-59
+Removed Pin From Net: NetName=CAN2_L Pin=60P Connector-60
+Removed Pin From Net: NetName=EBS_Compressor_Relay_OUT Pin=R8-2
+Removed Pin From Net: NetName=EBS_Autonomous_Mode_OUT Pin=R11-2
+Removed Pin From Net: NetName=EBS_Autonomous_Mode Pin=U1-3
+Removed Pin From Net: NetName=EBS_Compressor_Relay Pin=U2-7
+Removed Member From Class: ClassName=AS_Node_Connectors Member=26P Connector
+Removed Member From Class: ClassName=AS_Node_Connectors Member=60P Connector
+Removed Member From Class: ClassName=AS_Node_Outputs Member=R8
+Change Component Designator: OldDesignator=R18 NewDesignator=R50
+Added Component: Designator=P3(964372879)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/9-6437287-9/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "28.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "9-6437287-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(64372885)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/6437288-5/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "27.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6437288-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Q2_Service_Brake Pin=P1-11
+Added Pin To Net: NetName=3V3 Pin=P2-1
+Added Pin To Net: NetName=DGND Pin=P2-2
+Added Pin To Net: NetName=AGND Pin=P2-3
+Added Pin To Net: NetName=DGND Pin=P2-4
+Added Pin To Net: NetName=Spare_Pin_8 Pin=P2-5
+Added Pin To Net: NetName=ASSI_R_LED Pin=P2-6
+Added Pin To Net: NetName=Spare_Pin_7 Pin=P2-8
+Added Pin To Net: NetName=EBS_Speaker Pin=P2-11
+Added Pin To Net: NetName=EBS_Autonomous_Mode Pin=P2-14
+Added Pin To Net: NetName=EBS_OK Pin=P2-15
+Added Pin To Net: NetName=Spare_Pin_6 Pin=P2-16
+Added Pin To Net: NetName=ASSI_G_LED Pin=P2-17
+Added Pin To Net: NetName=ASSI_B_LED Pin=P2-18
+Added Pin To Net: NetName=Spare_Pin_2 Pin=P2-19
+Added Pin To Net: NetName=BOOT1 Pin=P2-20
+Added Pin To Net: NetName=Rack_Pos Pin=P2-21
+Added Pin To Net: NetName=Steering_Pos Pin=P2-24
+Added Pin To Net: NetName=AIN_Pressure_Regulator Pin=P2-26
+Added Pin To Net: NetName=B4_Steering_Clamped Pin=P2-27
+Added Pin To Net: NetName=SWDIO Pin=P3-1
+Added Pin To Net: NetName=SWCLK Pin=P3-2
+Added Pin To Net: NetName=JTDI Pin=P3-3
+Added Pin To Net: NetName=JTDO Pin=P3-4
+Added Pin To Net: NetName=TRST Pin=P3-5
+Added Pin To Net: NetName=3V3 Pin=P3-6
+Added Pin To Net: NetName=5V Pin=P3-7
+Added Pin To Net: NetName=RS232_IN Pin=P3-8
+Added Pin To Net: NetName=Q7_Streeing_Clamp_OUT Pin=P3-9
+Added Pin To Net: NetName=RS232_OUT Pin=P3-10
+Added Pin To Net: NetName=Motor_Steering_Speed_OUT Pin=P3-11
+Added Pin To Net: NetName=Spare_USART_RX Pin=P3-12
+Added Pin To Net: NetName=Motor_Dir_OUT Pin=P3-13
+Added Pin To Net: NetName=Motor_Current_Limit_OUT Pin=P3-15
+Added Pin To Net: NetName=EBS_Autonomous_Mode_OUT Pin=P3-16
+Added Pin To Net: NetName=Spare_Pin_2 Pin=P3-17
+Added Pin To Net: NetName=EBS_Heartbeat_OUT Pin=P3-18
+Added Pin To Net: NetName=Spare_Pin_4 Pin=P3-19
+Added Pin To Net: NetName=Spare_Pin_3 Pin=P3-20
+Added Pin To Net: NetName=Spare_Pin_7 Pin=P3-21
+Added Pin To Net: NetName=Spare_Pin_6 Pin=P3-22
+Added Pin To Net: NetName=Spare_Pin_8 Pin=P3-24
+Added Pin To Net: NetName=3V3 Pin=P3-25
+Added Pin To Net: NetName=Spare_Pin_9 Pin=P3-26
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=Wheel_Speed_L_IN Pin=P?-2
+Added Pin To Net: NetName=AGND Pin=P?-3
+Added Pin To Net: NetName=5V Pin=P?-4
+Added Pin To Net: NetName=Wheel_Speed_R_IN Pin=P?-5
+Added Pin To Net: NetName=AGND Pin=P?-6
+Added Pin To Net: NetName=DGND Pin=P?-7
+Added Pin To Net: NetName=5V Pin=P?-8
+Added Pin To Net: NetName=B4_Steering_Clamped Pin=P?-9
+Added Pin To Net: NetName=5V Pin=P?-10
+Added Pin To Net: NetName=Steering_Pos_IN Pin=P?-11
+Added Pin To Net: NetName=AGND Pin=P?-12
+Added Pin To Net: NetName=5V Pin=P?-13
+Added Pin To Net: NetName=Rack_Pos_IN Pin=P?-14
+Added Pin To Net: NetName=AGND Pin=P?-15
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-16
+Added Pin To Net: NetName=EBS_Failure_LED_OUT Pin=P?-17
+Added Pin To Net: NetName=DGND Pin=P?-18
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-19
+Added Pin To Net: NetName=EBS_Speaker_OUT Pin=P?-20
+Added Pin To Net: NetName=DGND Pin=P?-21
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-22
+Added Pin To Net: NetName=ASSI_R_LED_OUT Pin=P?-23
+Added Pin To Net: NetName=DGND Pin=P?-24
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-25
+Added Pin To Net: NetName=ASSI_G_LED_OUT Pin=P?-26
+Added Pin To Net: NetName=DGND Pin=P?-27
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-28
+Added Pin To Net: NetName=ASSI_B_LED_OUT Pin=P?-29
+Added Pin To Net: NetName=DGND Pin=P?-30
+Added Pin To Net: NetName=24V_LVMS_IN Pin=P?-31
+Added Pin To Net: NetName=24V_LVMS_IN Pin=P?-32
+Added Pin To Net: NetName=24V_LVMS_IN Pin=P?-35
+Added Pin To Net: NetName=24V_LVMS_IN Pin=P?-36
+Added Pin To Net: NetName=5V Pin=P?-37
+Added Pin To Net: NetName=EBS_Pressure_IN Pin=P?-38
+Added Pin To Net: NetName=AGND Pin=P?-39
+Added Pin To Net: NetName=5V Pin=P?-40
+Added Pin To Net: NetName=Service_Pressure_IN Pin=P?-41
+Added Pin To Net: NetName=AGND Pin=P?-42
+Added Pin To Net: NetName=5V Pin=P?-43
+Added Pin To Net: NetName=Actuator_Pressure_IN Pin=P?-44
+Added Pin To Net: NetName=AGND Pin=P?-45
+Added Pin To Net: NetName=AIN_Pressure_Regulator Pin=P?-46
+Added Pin To Net: NetName=AGND Pin=P?-47
+Added Pin To Net: NetName=Q1_Pressure_Regulator_OUT Pin=P?-48
+Added Pin To Net: NetName=AGND Pin=P?-49
+Added Pin To Net: NetName=Q2_Service_Brake_OUT Pin=P?-50
+Added Pin To Net: NetName=Q6_Redundancy_OUT Pin=P?-51
+Added Pin To Net: NetName=ASMS_ON_IN Pin=P?-52
+Added Pin To Net: NetName=EBS_Compressor_Relay_OUT Pin=P?-53
+Added Pin To Net: NetName=Spare_Pin_1 Pin=P?-54
+Added Pin To Net: NetName=EBS_OK_IN Pin=P?-56
+Added Pin To Net: NetName=CAN1_H Pin=P?-57
+Added Pin To Net: NetName=CAN1_L Pin=P?-58
+Added Pin To Net: NetName=CAN2_H Pin=P?-59
+Added Pin To Net: NetName=CAN2_L Pin=P?-60
+Added Pin To Net: NetName=Q6_Redundancy_OUT Pin=R6-2
+Added Pin To Net: NetName=EBS_Autonomous_Mode_OUT Pin=R10-2
+Added Pin To Net: NetName=EBS_Compressor_Relay_OUT Pin=R11-2
+Added Pin To Net: NetName=EBS_Autonomous_Mode Pin=U1-2
+Added Pin To Net: NetName=EBS_Compressor_Relay Pin=U1-3
+Added Pin To Net: NetName=Q7_Streeing_Clamp Pin=U2-7
+Added Pin To Net: NetName=NetR5_1 Pin=U2-10
+Added Pin To Net: NetName=5V Pin=UReg2-1
+Change Net Name : Old Net Name=24V_LVMS_IN New Net Name=24V_IN
+Change Net Name : Old Net Name=Rack_Pos New Net Name=Rack_Position
+Change Net Name : Old Net Name=Steering_Pos New Net Name=Steering_Position
+Added Pin To Net: NetName=12V_IN Pin=P?-33
+Added Pin To Net: NetName=12V_IN Pin=P?-34
+Added Net: Name=12V_IN
+Added Pin To Net: NetName=EBS_Heartbeat Pin=P2-13
+Added Pin To Net: NetName=EBS_Heartbeat Pin=U1-1
+Added Net: Name=EBS_Heartbeat
+Added Pin To Net: NetName=Motor_Current_Limit Pin=P2-22
+Added Pin To Net: NetName=Motor_Current_Limit Pin=R50-1
+Added Net: Name=Motor_Current_Limit
+Added Pin To Net: NetName=Motor_Dir Pin=P2-23
+Added Pin To Net: NetName=Motor_Dir Pin=R15-1
+Added Net: Name=Motor_Dir
+Added Pin To Net: NetName=Motor_Steering_Speed Pin=P2-12
+Added Pin To Net: NetName=Motor_Steering_Speed Pin=R12-1
+Added Net: Name=Motor_Steering_Speed
+Added Pin To Net: NetName=Q1_Pressure_Regulator Pin=P2-28
+Added Pin To Net: NetName=Q1_Pressure_Regulator Pin=R44-1
+Added Net: Name=Q1_Pressure_Regulator
+Added Pin To Net: NetName=Spare_Pin_5 Pin=P2-9
+Added Pin To Net: NetName=Spare_Pin_5 Pin=P?-55
+Added Net: Name=Spare_Pin_5
+Added Pin To Net: NetName=Spare_Pin_10 Pin=P2-10
+Added Pin To Net: NetName=Spare_Pin_10 Pin=P3-23
+Added Net: Name=Spare_Pin_10
+Added Pin To Net: NetName=Spare _USART_TX Pin=P1-9
+Added Pin To Net: NetName=Spare _USART_TX Pin=P1-10
+Added Pin To Net: NetName=Spare _USART_TX Pin=P3-14
+Added Pin To Net: NetName=Spare _USART_TX Pin=U8-11
+Added Net: Name=Spare _USART_TX
+Added Pin To Net: NetName=Wheel_Speed_L Pin=P2-25
+Added Net: Name=Wheel_Speed_L
+Added Pin To Net: NetName=Wheel_Speed_R Pin=P2-7
+Added Net: Name=Wheel_Speed_R
+Added Member To Class: ClassName=AS_Node_Connectors Member=Component P3 9-6437287-9
+Added Member To Class: ClassName=AS_Node_Connectors Member=Component P? 6437288-5

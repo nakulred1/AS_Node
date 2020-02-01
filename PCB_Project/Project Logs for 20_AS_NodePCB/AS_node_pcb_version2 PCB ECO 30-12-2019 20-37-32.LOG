@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=24V_IN Pin=P3-31
+Removed Pin From Net: NetName=24V_IN Pin=P3-32
+Removed Pin From Net: NetName=24V_IN Pin=P3-36
+Removed Pin From Net: NetName=24V Pin=U1-9
+Added Pin To Net: NetName=DGND Pin=C4-2
+Added Pin To Net: NetName=5V Pin=ICCAN1-8
+Added Pin To Net: NetName=5V Pin=ICCAN1-14
+Added Pin To Net: NetName=24V Pin=P3-31
+Added Pin To Net: NetName=DGND Pin=P3-32
+Added Pin To Net: NetName=DGND Pin=P3-36
+Added Pin To Net: NetName=24V_IN Pin=U1-9
+Change Net Name : Old Net Name=12V_IN New Net Name=12V_LVMS
+Change Net Name : Old Net Name=24V New Net Name=24V_ASMS_IN
+Change Net Name : Old Net Name=24V_ASMS_IN New Net Name=24V_ASMS_OUT
+Change Net Name : Old Net Name=24V_IN New Net Name=24V_LVMS_IN
+Change Net Name : Old Net Name=DGND New Net Name=24V_ASMS_GND
+Added Member To Class: ClassName=AS_Node_Connectors Member=Component P1 61303021121
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

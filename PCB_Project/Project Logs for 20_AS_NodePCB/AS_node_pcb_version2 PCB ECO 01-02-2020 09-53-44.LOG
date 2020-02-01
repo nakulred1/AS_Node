@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=EBS_Compressor_Relay Pin=U1-3
+Removed Pin From Net: NetName=DGND Pin=U1-8
+Removed Pin From Net: NetName=24V_LVMS_IN Pin=U1-9
+Removed Pin From Net: NetName=NetR11_1 Pin=U1-14
+Removed Pin From Net: NetName=Q6_Redundancy Pin=U2-2
+Removed Pin From Net: NetName=Q2_Service_Brake Pin=U2-3
+Removed Pin From Net: NetName=Q2_Service_Brake Pin=U2-4
+Removed Pin From Net: NetName=NetR5_1 Pin=U2-10
+Removed Pin From Net: NetName=NetR5_1 Pin=U2-11
+Removed Pin From Net: NetName=NetR5_1 Pin=U2-12
+Removed Pin From Net: NetName=NetR7_1 Pin=U2-13
+Removed Pin From Net: NetName=NetR7_1 Pin=U2-14
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-15
+Removed Member From Class: ClassName=AS_Node_Outputs Member=R9
+Removed Member From Class: ClassName=AS_Node_Outputs Member=R10
+Removed Member From Class: ClassName=AS_Node_Outputs Member=U1
+Added Pin To Net: NetName=Q2_Service_Brake Pin=U2-2
+Added Pin To Net: NetName=EBS_Compressor_Relay Pin=U2-4
+Added Pin To Net: NetName=NetR11_1 Pin=U2-13
+Added Pin To Net: NetName=NetR5_1 Pin=U2-14
+Added Pin To Net: NetName=NetR7_1 Pin=U2-15
+Change Net Name : Old Net Name=Q7_Streeing_Clamp_OUT New Net Name=Q7_Steering_Clamp_OUT
+Added Pin To Net: NetName=EBS_AS_Close_SDC Pin=P2-10
+Added Pin To Net: NetName=EBS_AS_Close_SDC Pin=P4-23
+Added Net: Name=EBS_AS_Close_SDC
+Added Pin To Net: NetName=EBS_AS_Driving_Mode Pin=P2-14
+Added Pin To Net: NetName=EBS_AS_Driving_Mode Pin=P4-22
+Added Net: Name=EBS_AS_Driving_Mode
+Added Pin To Net: NetName=EBS_SDC_Is_Ready Pin=P2-15
+Added Pin To Net: NetName=EBS_SDC_Is_Ready Pin=P4-12
+Added Net: Name=EBS_SDC_Is_Ready
+Added Pin To Net: NetName=EBS_Watchdog Pin=P2-13
+Added Pin To Net: NetName=EBS_Watchdog Pin=P3-56
+Added Net: Name=EBS_Watchdog
+Added Pin To Net: NetName=Q7_Steering_Clamp Pin=P1-3
+Added Pin To Net: NetName=Q7_Steering_Clamp Pin=U2-3
+Added Net: Name=Q7_Steering_Clamp
+Added Member To Class: ClassName=AS_Node_Connectors Member=Component P3 6437288-5
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Spare_Pin_9 Pin=P4-MH1
+Added Pin To Net: NetName=Spare_Pin_9 Pin=P4-14
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

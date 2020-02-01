@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=R18-2
+Added Pin To Net: NetName=5V Pin=R27-2
+Added Pin To Net: NetName=5V Pin=R28-2
+Added Pin To Net: NetName=5V Pin=R33-2
+Added Pin To Net: NetName=5V Pin=R34-2
+Added Pin To Net: NetName=5V Pin=R41-2
+Added Pin To Net: NetName=5V Pin=R47-2
+Added Pin To Net: NetName=5V Pin=R48-2
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=24V_ASMS_OUT Pin=P3-22
+Removed Pin From Net: NetName=24V_ASMS_OUT Pin=P3-25
+Removed Pin From Net: NetName=24V_ASMS_OUT Pin=P3-28
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P3-22
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P3-25
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P3-28
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

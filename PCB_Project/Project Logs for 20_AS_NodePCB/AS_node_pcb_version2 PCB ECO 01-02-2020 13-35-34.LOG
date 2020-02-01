@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P3-16
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P3-19
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Added Member To Class: ClassName=AS_Node_Connectors Member=Component P4 6437288-5
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

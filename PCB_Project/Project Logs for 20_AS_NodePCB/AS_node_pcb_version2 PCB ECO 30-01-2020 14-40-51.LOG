@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=24V_ASMS_GND Pin=P3-24
+Removed Pin From Net: NetName=24V_ASMS_GND Pin=P3-27
+Removed Pin From Net: NetName=24V_ASMS_GND Pin=P3-30
+Removed Pin From Net: NetName=24V_ASMS_GND Pin=P3-32
+Removed Pin From Net: NetName=24V_ASMS_GND Pin=P3-36
+Change Component Designator: OldDesignator=R40 NewDesignator=10mH
+Added Pin To Net: NetName=AGND Pin=P3-24
+Added Pin To Net: NetName=AGND Pin=P3-27
+Added Pin To Net: NetName=AGND Pin=P3-30
+Added Pin To Net: NetName=AGND Pin=P3-32
+Added Pin To Net: NetName=AGND Pin=P3-36
+Change Net Name : Old Net Name=24V_ASMS_GND New Net Name=DGND
+Change Net Name : Old Net Name=AGND New Net Name=24V_ASMS_GND
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

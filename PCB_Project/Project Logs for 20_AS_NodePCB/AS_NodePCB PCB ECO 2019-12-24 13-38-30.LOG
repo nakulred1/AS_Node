@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P2 Old Footprint=HDRV28W64P254_2X14_3556X508X854P New Footprint=28_connector_female
+Change Component Footprint: Designator=P1 Old Footprint=HDRV30W64P254X254_2X15_3810X508X854P New Footprint=30_connector_female
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

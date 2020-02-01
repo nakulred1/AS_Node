@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=AIN_Pressure_Regulator Pin=P3-46
+Removed Pin From Net: NetName=AIN_Pressure_Regulator Pin=R48-1
+Removed Pin From Net: NetName=AIN_Pressure_Regulator Pin=R52-1
+Added Pin To Net: NetName=Pressure_Regulator_AIN Pin=P3-46
+Added Pin To Net: NetName=Pressure_Regulator_AIN Pin=R48-1
+Added Pin To Net: NetName=Pressure_Regulator_AIN Pin=R52-1
+Added Net: Name=Pressure_Regulator_AIN
+Added Member To Class: ClassName=AS_Node_Inputs Member=Component Z7 BZT52-C4V7X
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

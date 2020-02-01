@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=EBS_OK Pin=C22-1
+Removed Pin From Net: NetName=AGND Pin=C22-2
+Removed Pin From Net: NetName=+5V Pin=R39-2
+Removed Pin From Net: NetName=EBS_OK Pin=R42-2
+Removed Pin From Net: NetName=EBS_OK Pin=R45-1
+Removed Pin From Net: NetName=AGND Pin=R45-2
+Removed Pin From Net: NetName=EBS_OK Pin=Z7-1
+Removed Pin From Net: NetName=AGND Pin=Z7-2
+Removed Member From Class: ClassName=AS_Node_Inputs Member=C22
+Removed Member From Class: ClassName=AS_Node_Inputs Member=R39
+Removed Member From Class: ClassName=AS_Node_Inputs Member=R42
+Removed Member From Class: ClassName=AS_Node_Inputs Member=R45
+Removed Member From Class: ClassName=AS_Node_Inputs Member=Z7
+Added Pin To Net: NetName=EBS_OK Pin=P3-56
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

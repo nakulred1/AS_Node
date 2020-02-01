@@ -1,0 +1,74 @@
+Added Component: Designator=P?(64372885)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/6437288-5/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "27.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6437288-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=Wheel_Speed_L_IN Pin=P?-2
+Added Pin To Net: NetName=AGND Pin=P?-3
+Added Pin To Net: NetName=5V Pin=P?-4
+Added Pin To Net: NetName=Wheel_Speed_R_IN Pin=P?-5
+Added Pin To Net: NetName=AGND Pin=P?-6
+Added Pin To Net: NetName=DGND Pin=P?-7
+Added Pin To Net: NetName=5V Pin=P?-8
+Added Pin To Net: NetName=B4_Steering_Clamped Pin=P?-9
+Added Pin To Net: NetName=5V Pin=P?-10
+Added Pin To Net: NetName=Steering_Pos_IN Pin=P?-11
+Added Pin To Net: NetName=AGND Pin=P?-12
+Added Pin To Net: NetName=5V Pin=P?-13
+Added Pin To Net: NetName=Rack_Pos_IN Pin=P?-14
+Added Pin To Net: NetName=AGND Pin=P?-15
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-16
+Added Pin To Net: NetName=EBS_Failure_LED_OUT Pin=P?-17
+Added Pin To Net: NetName=DGND Pin=P?-18
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-19
+Added Pin To Net: NetName=EBS_Speaker_OUT Pin=P?-20
+Added Pin To Net: NetName=DGND Pin=P?-21
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-22
+Added Pin To Net: NetName=ASSI_R_LED_OUT Pin=P?-23
+Added Pin To Net: NetName=DGND Pin=P?-24
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-25
+Added Pin To Net: NetName=ASSI_G_LED_OUT Pin=P?-26
+Added Pin To Net: NetName=DGND Pin=P?-27
+Added Pin To Net: NetName=24V_ASMS_IN Pin=P?-28
+Added Pin To Net: NetName=ASSI_B_LED_OUT Pin=P?-29
+Added Pin To Net: NetName=DGND Pin=P?-30
+Added Pin To Net: NetName=24V_IN Pin=P?-31
+Added Pin To Net: NetName=24V_IN Pin=P?-32
+Added Pin To Net: NetName=12V_IN Pin=P?-33
+Added Pin To Net: NetName=12V_IN Pin=P?-34
+Added Pin To Net: NetName=24V_IN Pin=P?-35
+Added Pin To Net: NetName=24V_IN Pin=P?-36
+Added Pin To Net: NetName=5V Pin=P?-37
+Added Pin To Net: NetName=EBS_Pressure_IN Pin=P?-38
+Added Pin To Net: NetName=AGND Pin=P?-39
+Added Pin To Net: NetName=5V Pin=P?-40
+Added Pin To Net: NetName=Service_Pressure_IN Pin=P?-41
+Added Pin To Net: NetName=AGND Pin=P?-42
+Added Pin To Net: NetName=5V Pin=P?-43
+Added Pin To Net: NetName=Actuator_Pressure_IN Pin=P?-44
+Added Pin To Net: NetName=AGND Pin=P?-45
+Added Pin To Net: NetName=AIN_Pressure_Regulator Pin=P?-46
+Added Pin To Net: NetName=AGND Pin=P?-47
+Added Pin To Net: NetName=Q1_Pressure_Regulator_OUT Pin=P?-48
+Added Pin To Net: NetName=AGND Pin=P?-49
+Added Pin To Net: NetName=Q2_Service_Brake_OUT Pin=P?-50
+Added Pin To Net: NetName=Q6_Redundancy_OUT Pin=P?-51
+Added Pin To Net: NetName=ASMS_ON_IN Pin=P?-52
+Added Pin To Net: NetName=EBS_Compressor_Relay_OUT Pin=P?-53
+Added Pin To Net: NetName=Spare_Pin_1 Pin=P?-54
+Added Pin To Net: NetName=Spare_Pin_5 Pin=P?-55
+Added Pin To Net: NetName=EBS_OK_IN Pin=P?-56
+Added Pin To Net: NetName=CAN1_H Pin=P?-57
+Added Pin To Net: NetName=CAN1_L Pin=P?-58
+Added Pin To Net: NetName=CAN2_H Pin=P?-59
+Added Pin To Net: NetName=CAN2_L Pin=P?-60
+Added Member To Class: ClassName=AS_Node_Connectors Member=Component P? 6437288-5
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Spare _USART_TX Pin=P1-9
+Added Pin To Net: NetName=Spare _USART_RX Pin=P1-9
+Added Net: Name=Spare _USART_RX
+Added Room: Name=AS_Node_Connectors
+Added Room: Name=AS_Node_Inputs
+Added Room: Name=AS_Node_Outputs
+Added Room: Name=AS_Node_Transceiver
+Added Room: Name=AS_Node_Voltage_Regulators

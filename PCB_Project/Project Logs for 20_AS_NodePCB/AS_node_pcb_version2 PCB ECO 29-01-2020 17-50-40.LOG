@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Spare_USART_RX Pin=U8-12
+Added Pin To Net: NetName=Spare _USART_RX Pin=U8-12
